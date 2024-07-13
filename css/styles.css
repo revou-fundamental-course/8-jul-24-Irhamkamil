@@ -1,1 +1,41 @@
 /* ini css */
+.main-header {
+  text-align: center;
+}
+
+.main-content {
+  display: flex;
+}
+
+.content {
+  padding: 12px;
+}
+
+.left-content {
+  flex: 1;
+}
+
+.form-left {
+  background-color: cornsilk;
+  padding: 16px;
+  border-radius: 10px;
+}
+
+.field-input {
+  margin: 12px;
+}
+
+.input-form {
+  width: 95%;
+  border: 1px solid;
+  border-radius: 5px;
+  transition: 2s;
+}
+
+.right-content {
+  flex: 1;
+}
+
+.right-main-header {
+  text-align: center;
+}
